@@ -1,9 +1,6 @@
 <h1>Practicando con Java: Challenge Conversor de Monedas</h1>
 <p>Pagina de la Api https://www.exchangerate-api.com/ </p>
 
-El Convertidor de Moneda es una herramienta que te permite convertir valores de una moneda a otra .
-podrás seleccionar la moneda base y la moneda objetivo, ingresar el monto que deseas convertir y obtener el resultado al instante. 
-Ya sea que necesites calcular el valor equivalente de dólares estadounidenses a euros, pesos argentinos a dólares, o cualquier otra combinación de monedas,
 
 Este proyecto es un conversor de moneda intuitivo desarrollado en Java. Utiliza Java 17 y la biblioteca Gson para realizar conversiones de moneda de manera precisa y eficiente.
 
@@ -19,5 +16,5 @@ El conversor de moneda permite:
 - Ingresar el monto a convertir.
 - Obtener el resultado de la conversión basado en la tasa de cambio actual.
 
-
+![PRIMERO](https://github.com/mayhrina30/Conversor-de-moneda--Alura./blob/master/menu3.png)
 ![Menu](https://github.com/mayhrina30/Conversor-de-moneda--Alura./blob/master/menu2.png)
