@@ -10,7 +10,9 @@ Lo primero que nos va a pedir nuestro programa es escribir nuestro nombre
 
 ![Inicio Moneda](https://github.com/mayhrina30/Conversor-de-moneda--Alura./blob/master/iniciomoneda.png)
 
-<H2>Segundo nos dara la bienvenida y nos mostrara un menu </H2>
+Segundo nos dara la bienvenida y nos mostrara un menu 
 ![Menu](https://github.com/mayhrina30/Conversor-de-moneda--Alura./blob/master/menu3.png)
 
-<H3>Tercero elejimos la moneda que queremos converir y nos mostrara la moneda convertida</H3>
+<H3>Tercero elejimos la moneda que queremos converir y nos mostrara la moneda convertida y nos volvera a mostrar el menu</H3>
+
+![Menu](https://github.com/mayhrina30/Conversor-de-moneda--Alura./blob/master/menu2.png)
